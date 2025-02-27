@@ -1,7 +1,7 @@
 # webp
 <h2>test</h2>
 <h3>R.C go read potato.md</h3>
-<p>hem</p>
+<p>hem, Go to potatokingdom</p>
 <p>Hello and welcome to my github repo</p>
 <p>i just post random stuff and try to test some code.</p>
 
