@@ -27,6 +27,7 @@ I 3> Potatoes DISCLAMER: This webpage is made by Gavin
 <p>The Potato Awakens</p>
 <p>The Rise of the Potato</p>
 <h2>Potato Facts<h2>
+    
 <p>Potatoes are not classified by the FDA as a low-calorie food. It is strongly recommended to eat no less than five Potatoes a day. Always brush your teeth after consumption of potatoes. Potatoes are known to interfere with certain beta-blockers and anti-coagulants. Do not consume potatoes if you are allergic to potatoes. Pregnant women and children under 5 should avoid exposure to potatoes. Potatoes are known to the State of California to cause cancer and reproductive harm. Cease consumption of potatoes and contact your doctor immediately if you feel tension in the chest, tingling in the extremities, vertigo, nausea, or heart palpitations. Potatoes contain a liquid core, and so if broken open, should not be touched or ingested. If ingested, call your local Poison Control center right away. Do not induce vomiting. Never consume potatoes after midnight. Do not taunt a potato. Failure to follow these regulations relieves Potato Products Incorporated Ltd. of any and all liability. Potatoes are not certified to be used as a life-preserving device or as a buoy.</p>
     <a href=“https://oniononiononion.github.io”>Visit this webp where I got inspiration</a>
 </body>
