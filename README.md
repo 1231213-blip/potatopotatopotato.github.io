@@ -1,2 +1,17 @@
 # webp
 a lot of funny webpages 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>\POTATOES!111!11!!! THEYR FULL OF PAYTYASIUM!11!!1</title>
+</head>
+<body>
+    <h1>I 3> Potatoes DISCLAMER: This webpage is made bye Gavin</h1>
+    <h2>Uses for Potatoes</h2>
+    <p> Slam on door</p> 
+	
+    <a href=“https://oniononiononion.github.io”>Visit this webp where I got inspiration</a>
+</body>
+</html>
+
+
